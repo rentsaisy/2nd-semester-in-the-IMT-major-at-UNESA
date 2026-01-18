@@ -33,6 +33,8 @@ Answer:
 (in the cloud shell)
 gcloud compute ssh my-instance --zone=$ZONE
 
+when it's completed, run this:
+
 sudo apt-get update
 
 sudo apt-get install -y nginx
