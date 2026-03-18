@@ -1,6 +1,7 @@
 """
 Hash Table Premium+ (Linear Probing) — matplotlib + keyboard controls (Windows CMD safe)
 
+
 Controls:
   SPACE : pause/resume
   RIGHT : step forward (when paused)
